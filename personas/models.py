@@ -28,4 +28,4 @@ class Persona(models.Model):
 	localidad = models.ForeignKey(Localidad, on_delete=models.CASCADE)
 	# to string
 	def __str__(self):
-		return self.apellido
+		return self.apellido+", "+self.nombre

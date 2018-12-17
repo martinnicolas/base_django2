@@ -1,0 +1,18 @@
+[
+  {
+    "model": "personas.localidad",
+    "pk": 1,
+    "fields": {
+      "nombre": "Rawson",
+      "provincia_id": 1
+    }
+  },
+  {
+    "model": "personas.localidad",
+    "pk": 2,
+    "fields": {
+      "nombre": "La Plata",
+      "provincia_id": 2
+    }
+  }
+]

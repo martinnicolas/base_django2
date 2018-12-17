@@ -1,0 +1,16 @@
+[
+  {
+    "model": "personas.provincia",
+    "pk": 1,
+    "fields": {
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "model": "personas.provincia",
+    "pk": 2,
+    "fields": {
+      "nombre": "Buenos Aires"
+    }
+  }
+]

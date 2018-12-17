@@ -1,0 +1,30 @@
+[
+  {
+    "model": "personas.tipodocumento",
+    "pk": 1,
+    "fields": {
+      "descripcion": "DNI"
+    }
+  },
+  {
+    "model": "personas.tipodocumento",
+    "pk": 2,
+    "fields": {
+      "descripcion": "LC"
+    }
+  },
+  {
+    "model": "personas.tipodocumento",
+    "pk": 3,
+    "fields": {
+      "descripcion": "LE"
+    }
+  },
+  {
+    "model": "personas.tipodocumento",
+    "pk": 4,
+    "fields": {
+      "descripcion": "CUIT"
+    }
+  }
+]
